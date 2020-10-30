@@ -2,7 +2,7 @@
 
 ## 🤔 Who this is for
 
-This is an template that anyone can use to encourage teams and organizations to take quick steps to upgrade their organizational security together.
+This is a template that anyone can use to encourage teams and organizations to take quick steps to upgrade their organizational security together.
 
 ## 🔑 Key concept
 
